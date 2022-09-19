@@ -7,6 +7,7 @@ My neovim config
 Put the files inside ~/.config/nvim 
 
 Add this inside your .zshrc or .bashrc
+
 '''  alias nvim="nvim -c "LspStart pyright "" '''
 
 
